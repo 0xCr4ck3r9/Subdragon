@@ -20,7 +20,7 @@ Subdragon allows you to perform fast subdomain fuzzing using customized wordlist
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/0xCr7ck3r/Subdragon.git
+git clone https://github.com/0xCr4ck3r9/Subdragon.git
 cd Subdragon
 
 ```
