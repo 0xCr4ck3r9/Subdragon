@@ -75,4 +75,4 @@ This tool is intended for **legal security testing and educational purposes only
 
 ## 👤 Author
 
-* **0xCr7ck3r** - [GitHub Profile](https://github.com/0xCr7ck3r)
+* **0xCr4ck3r** - [GitHub Profile](https://github.com/0xCr4ck3r9)
