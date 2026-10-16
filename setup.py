@@ -13,6 +13,6 @@ setup(
             'subdragon=subdragon:main',
         ],
     },
-    author='0xCr7ck3r',
+    author='0xCr4ck3r',
     description='Subdomain Fuzzing Tool',
 )
